@@ -1,0 +1,49 @@
+body{
+    
+   background-color: brown;
+}
+div{
+    background-color: rgb(111, 98, 156);
+    display: inline-block;
+    margin: auto;
+    width: 80%;
+    list-style-type: none;
+    padding: 20px 40px 10px 50px;
+
+
+    
+}
+
+li{
+    margin-right: 0px;
+   display: inline-block;
+   
+   color: black; 
+
+    
+    
+    
+    
+}
+ul{
+    margin: 0px;;
+    padding: 0px;
+    list-style-type: none;
+    flex-direction: row;
+    
+    
+}
+header{
+    background-color: black;
+    padding: 20px 40px 10px 50px;
+    margin: auto;
+}
+table{
+    width: 500px;
+    padding: 20px;
+    height: 100px;
+}
+button{
+    background-color: blue white;
+    color: black;
+}
